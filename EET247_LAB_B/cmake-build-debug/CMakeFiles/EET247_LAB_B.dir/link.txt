@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/EET247_LAB_B.dir/main.c.o  -o EET247_LAB_B.exe -Wl,--out-implib,libEET247_LAB_B.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
