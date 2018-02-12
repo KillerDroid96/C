@@ -1,0 +1,4 @@
+C:\Users\mkell\.CLion2017.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Users/mkell/Desktop/Coding/Github/C/EET247_LAB_A
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/mkell/Desktop/Coding/Github/C/EET247_LAB_A/cmake-build-debug
