@@ -1,0 +1,3 @@
+/cygdrive/c/Users/mkell/Desktop/Coding/Github/C/EET247_LAB_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/mkell/Desktop/Coding/Github/C/EET247_LAB_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/mkell/Desktop/Coding/Github/C/EET247_LAB_C/cmake-build-debug/CMakeFiles/EET247_LAB_C.dir
