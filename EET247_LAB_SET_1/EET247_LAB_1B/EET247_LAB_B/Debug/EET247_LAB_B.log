@@ -1,0 +1,39 @@
+﻿Build started 2/14/2018 9:46:19 AM.
+     1>Project "c:\Users\mkell\documents\visual studio 2010\Projects\EET247_LAB_B\EET247_LAB_B\EET247_LAB_B.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\EET247_LAB_B.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt EET247_LAB_B.cpp
+         EET247_LAB_B.cpp
+     1>c:\users\mkell\documents\visual studio 2010\projects\eet247_lab_b\eet247_lab_b\eet247_lab_b.cpp(81): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\mkell\documents\visual studio 2010\projects\eet247_lab_b\eet247_lab_b\eet247_lab_b.cpp(85): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\mkell\documents\visual studio 2010\projects\eet247_lab_b\eet247_lab_b\eet247_lab_b.cpp(93): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>c:\users\mkell\documents\visual studio 2010\projects\eet247_lab_b\eet247_lab_b\eet247_lab_b.cpp(94): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>c:\users\mkell\documents\visual studio 2010\projects\eet247_lab_b\eet247_lab_b\eet247_lab_b.cpp(95): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>c:\users\mkell\documents\visual studio 2010\projects\eet247_lab_b\eet247_lab_b\eet247_lab_b.cpp(96): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>c:\users\mkell\documents\visual studio 2010\projects\eet247_lab_b\eet247_lab_b\eet247_lab_b.cpp(97): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>c:\users\mkell\documents\visual studio 2010\projects\eet247_lab_b\eet247_lab_b\eet247_lab_b.cpp(98): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>c:\users\mkell\documents\visual studio 2010\projects\eet247_lab_b\eet247_lab_b\eet247_lab_b.cpp(99): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\mkell\documents\visual studio 2010\Projects\EET247_LAB_B\Debug\EET247_LAB_B.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\EET247_LAB_B.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\mkell\documents\visual studio 2010\Projects\EET247_LAB_B\Debug\EET247_LAB_B.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\mkell\documents\visual studio 2010\Projects\EET247_LAB_B\Debug\EET247_LAB_B.lib" /MACHINE:X86 Debug\EET247_LAB_B.obj
+         LINK : c:\users\mkell\documents\visual studio 2010\Projects\EET247_LAB_B\Debug\EET247_LAB_B.exe not found or not built by the last incremental link; performing full link
+         EET247_LAB_B.vcxproj -> c:\users\mkell\documents\visual studio 2010\Projects\EET247_LAB_B\Debug\EET247_LAB_B.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\mkell\documents\visual studio 2010\Projects\EET247_LAB_B\Debug\EET247_LAB_B.exe;#1" /manifest Debug\EET247_LAB_B.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\EET247_LAB_B.unsuccessfulbuild".
+         Touching "Debug\EET247_LAB_B.lastbuildstate".
+     1>Done Building Project "c:\Users\mkell\documents\visual studio 2010\Projects\EET247_LAB_B\EET247_LAB_B\EET247_LAB_B.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.73

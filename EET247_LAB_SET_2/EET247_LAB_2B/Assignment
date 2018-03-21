@@ -1,0 +1,69 @@
+ 
+PROBLEM SET 2:  INTRODUCTION TO COMPUTER PROGRAMMING 
+ 
+LAB ASSIGNMENT – 2B:  Loan Amortization Calculator 
+ 
+Overview: 
+Banks are happy to give a person a loan for a car, house, business, or for other reasons.  They are happy to do it because they make money off of your loan.  
+They charge you interest which is amortized over a period of time.  On a typical home mortgage, the homeowner pays more in interest to the bank than he/she pays for the house.  
+
+Objective: 
+Using your textbook, notes and personal research material, write a program using the C Programming language that will display the desired output
+on the command screen per the specifications provided. NOTE: Your source code/program should be well documented as outlined in Handout #2 and 
+contain at least 1 function call to a function that you created. 
+ 
+Specifications: 
+Input:  From keyboard: Purchase Price, Down payment, Annual interest rate and Number of payments 
+ 
+Process: Perform the required math processes on the inputs per the following information: 
+ 
+𝑃𝑎𝑦𝑚𝑒𝑛𝑡 = iP / 1−(1 +𝑖)^−𝑛 
+ 
+Where: 
+P = Principal (the amount you borrow) 
+i = monthly interest rate (1/12  of the annual rate) 
+n = total number of payments 
+ 
+Output:   Clear the screen and then display your name, 
+          Purchase Price, 
+          Down Payment,
+          Principal Borrowed,
+          Number of Payments, 
+          Annual interest rate, 
+          Monthly payment and 
+          Total Amount repaid. 
+
+Relevant Dollar and Percent signs are to be included. 
+Displayed values should reflect two decimal points. 
+
+Your output must look the depiction on page 3 to receive full consideration. 
+
+REPORTING:  
+1. Submit your executable file 
+2. Documented source code 
+2. Screen shot of your output
+3. ZIP file for proper consideration. 
+
+Provide screenshots of at least 3 different loan amounts,
+interest rates and the number of payments.  
+
+As part of your source code documentation, identify any limits to the expected input, output and/or processing.  
+ 
+ 	 
+ 
+OUTPUT EXAMPLE: 
+ 
+************************************************************************************* 
+THE FRANKLIN BANK & TRUST COMPANY of LITTLETON, NY 
+              Loan Information Disclosure Statement 
+************************************************************************************* 
+Borrower Name:  	Your Name 
+Purchase Price:   	$900.00 
+Down Payment:  	        $100.00 
+Principal Borrowed:  	$800.00 
+Number of Payments:     24 
+Annual Interest Rate:  	6.25% 
+Monthly Payment:  	$35.55 
+Total Repayment:  	$853.12 
+Total Interest:    	$53.12 
+************************************************************************************* 

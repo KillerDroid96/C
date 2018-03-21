@@ -1,0 +1,25 @@
+﻿Build started 3/6/2018 2:55:47 PM.
+     1>Project "c:\Users\mkell\documents\visual studio 2010\Projects\EET247_LAB_2A\EET247_LAB_2A\EET247_LAB_2A.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\EET247_LAB_2A.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt EET247_LAB_2A.cpp
+         EET247_LAB_2A.cpp
+     1>c:\users\mkell\documents\visual studio 2010\projects\eet247_lab_2a\eet247_lab_2a\eet247_lab_2a.cpp(51): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\mkell\documents\visual studio 2010\projects\eet247_lab_2a\eet247_lab_2a\eet247_lab_2a.cpp(52): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\mkell\documents\visual studio 2010\Projects\EET247_LAB_2A\Debug\EET247_LAB_2A.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\EET247_LAB_2A.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\mkell\documents\visual studio 2010\Projects\EET247_LAB_2A\Debug\EET247_LAB_2A.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\mkell\documents\visual studio 2010\Projects\EET247_LAB_2A\Debug\EET247_LAB_2A.lib" /MACHINE:X86 Debug\EET247_LAB_2A.obj
+         LINK : c:\users\mkell\documents\visual studio 2010\Projects\EET247_LAB_2A\Debug\EET247_LAB_2A.exe not found or not built by the last incremental link; performing full link
+         EET247_LAB_2A.vcxproj -> c:\users\mkell\documents\visual studio 2010\Projects\EET247_LAB_2A\Debug\EET247_LAB_2A.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\mkell\documents\visual studio 2010\Projects\EET247_LAB_2A\Debug\EET247_LAB_2A.exe;#1" /manifest Debug\EET247_LAB_2A.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\EET247_LAB_2A.unsuccessfulbuild".
+         Touching "Debug\EET247_LAB_2A.lastbuildstate".
+     1>Done Building Project "c:\Users\mkell\documents\visual studio 2010\Projects\EET247_LAB_2A\EET247_LAB_2A\EET247_LAB_2A.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.01
